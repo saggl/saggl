@@ -5,6 +5,6 @@
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%40sagstetterc-239a3b.svg)](https://stackoverflow.com/users/10333632/sagstetterc)
 
 
-Hi, I am [@saggl](https://github.com/saggl). 👋 I am an enthusiastic continuous everything (CX) engineer at [@bsh-group](https://www.bsh-group.com) and love to make developers' lives easier to improve quality of life at home. I live in 🇪🇺, 🇩🇪, Bavaria. I’m also a Carpenter 🪚, Bricklayers 🧱, Joiners 🪵 and gardening 🌳 enthusiast and love creating thinks with my hands.
+Hi, I am [@saggl](https://github.com/saggl). 👋 I am an enthusiastic continuous everything (CX) engineer 💻 at [@bsh-group](https://www.bsh-group.com) and love to make developers' lives easier to improve quality of life at home 🏡. I live in 🇪🇺, 🇩🇪, Bavaria. I’m also a Carpenter 🪚, Bricklayer 🧱, Joiner 🪵 and gardening 🧑‍🌾🌳 enthusiast and love creating thinks with my hands 👐.
 
 
