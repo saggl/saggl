@@ -19,4 +19,5 @@ Hi, I am [@saggl](https://github.com/saggl). 👋 I am an enthusiastic continuou
 
 #### Hobby
 * [Revised Log Construction Manual - Ultimate Guide To Building Log Homes](https://amzn.eu/d/bWpeIkT)
+* [Letting nature be nature: The creation of Germany's first national park: The Bavarian Forest National Park](https://amzn.eu/d/3gXzSPl)
 
