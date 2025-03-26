@@ -8,9 +8,10 @@
 Hi, I am [@saggl](https://github.com/saggl). 👋 I am an enthusiastic continuous everything (CX) engineer 💻 [@bsh-group](https://www.bsh-group.com) and love to make developers' lives easier to improve quality of life at home 🏡. I live in 🇪🇺, 🇩🇪, Bavaria. I’m also a Carpenter 🪚, Bricklayer 🧱, Joiner 🪵 and gardening 🧑‍🌾🌳 enthusiast and love creating thinks with my hands 👐.
 
 ## 💖 Programming Languages
-* C
+* C/C++
 * Pyhton
 * Rust
+* Groovy
   
 ## 🌈 Books
 #### Life
