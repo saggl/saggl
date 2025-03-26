@@ -16,6 +16,7 @@ Hi, I am [@saggl](https://github.com/saggl). 👋 I am an enthusiastic continuou
 #### Life
 * [Infectious Generosity: The Ultimate Idea Worth Spreading](https://amzn.eu/d/dyKnSgT)
 * [The 7 Habits of Highly Effective People](https://amzn.eu/d/hqgCccb)
+* [The Manager's Path](https://amzn.eu/d/ghPLaCO)
 
 #### Hobby
 * [Revised Log Construction Manual - Ultimate Guide To Building Log Homes](https://amzn.eu/d/bWpeIkT)
